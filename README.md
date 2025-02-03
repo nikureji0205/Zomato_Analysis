@@ -14,9 +14,19 @@
 # 🍽️ Zomato Dashboarding with Power BI  
 
 ## 📌 Description
-Zomato Dashboarding is an **interactive Power BI project** designed to analyze food order trends, user behavior, and city-wise sales contributions using Zomato data from **2017 to 2020**. With a focus on **data-driven decision-making**, this dashboard provides valuable insights into food delivery trends across different cities.
+Zomato Dashboarding is an **interactive Power BI project** designed to analyze food order trends, user behaviour, and city-wise sales contributions using Zomato data from **2017 to 2020**. With a focus on **data-driven decision-making**, this dashboard provides valuable insights into food delivery trends across different cities.
 
 ---
+### Overview
+![Image](https://github.com/user-attachments/assets/a954c63e-32f5-49f5-a84c-342c28e09fef)
+
+### User contribution
+
+![Image](https://github.com/user-attachments/assets/3b03e549-7cd7-41cf-a1f5-2841beabb1c8)
+
+### City-wise contribution
+
+![Image](https://github.com/user-attachments/assets/1c387913-8579-4ff5-90ab-eee72bea5c92)
 
 ## ⚙️ Installation
 
